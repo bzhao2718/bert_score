@@ -105,3 +105,20 @@ venv.bak/
 
 # vscode
 .vscode
+
+.idea/
+src/wodeutil/
+src/wodeutil/*
+*/wodeutil/
+*/gitignored/
+*/gitignored/*
+gitignored/
+gitignored/*
+
+temp/
+temp/*
+external/
+external/*
+
+examples/
+examples/*
